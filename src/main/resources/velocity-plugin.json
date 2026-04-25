@@ -1,0 +1,10 @@
+{
+  "id": "versionswitcher",
+  "name": "VersionSwitcher",
+  "version": "1.0.0",
+  "description": "Change your proxy's protocol version text",
+  "url": "https://github.com/NobleSkye/VersionSwitcher",
+  "authors": ["NobleSkye", "LionByte"],
+  "dependencies": [],
+  "main": "lionbyte.dev.versionswitcher.Main"
+}
